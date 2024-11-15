@@ -12,7 +12,7 @@ let package = Package(
         .library(name: "WWRegularExpression", targets: ["WWRegularExpression"]),
     ],
     targets: [
-        .target(name: "WWRegularExpression"),
+        .target(name: "WWRegularExpression", resources: [.copy("Privacy")]),
     ],
     swiftLanguageVersions: [
         .v5
