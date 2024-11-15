@@ -2,8 +2,8 @@
 [![Swift-5.6](https://img.shields.io/badge/Swift-5.6-orange.svg?style=flat)](https://developer.apple.com/swift/) [![iOS-14.0](https://img.shields.io/badge/iOS-14.0-pink.svg?style=flat)](https://developer.apple.com/swift/) ![TAG](https://img.shields.io/github/v/tag/William-Weng/WWRegularExpression) [![Swift Package Manager-SUCCESS](https://img.shields.io/badge/Swift_Package_Manager-SUCCESS-blue.svg?style=flat)](https://developer.apple.com/swift/) [![LICENSE](https://img.shields.io/badge/LICENSE-MIT-yellow.svg?style=flat)](https://developer.apple.com/swift/)
 
 ### [Introduction - 簡介](https://swiftpackageindex.com/William-Weng)
-- [Wrap NSPredicate to make regular expressions easier to use on iOS.](https://atedev.wordpress.com/2007/11/23/正規表示式-regular-expression/)
-- [包裝NSPredicate，讓正則表達式在iOS能更加容易使用。](http://darkk6.blogspot.com/2017/03/regexp-lookahead-lookbehind.html)
+- [Wrap NSPredicate / NSRegularExpression to make regular expressions easier to use on iOS.](https://atedev.wordpress.com/2007/11/23/正規表示式-regular-expression/)
+- [包裝NSPredicate / NSRegularExpression，讓正則表達式在iOS能更加容易使用。](http://darkk6.blogspot.com/2017/03/regexp-lookahead-lookbehind.html)
 
 ![](./Example.png)
 
